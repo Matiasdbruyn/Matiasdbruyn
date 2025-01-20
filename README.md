@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Matias De Bruyn 👋</h1>
+<h1 align="center">Hi, I'm Matias Nicolas De Bruyn 👋</h1>
 <h3 align="center">I am a passionate frontend developer</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/Matiasdbruyn](github.com/Matiasdbruyn)
